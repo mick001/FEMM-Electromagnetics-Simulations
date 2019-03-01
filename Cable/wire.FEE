@@ -1,0 +1,64 @@
+[Format]      =  1
+[Precision]   =  1e-008
+[MinAngle]    =  30
+[Depth]       =  100
+[LengthUnits] =  centimeters
+[ProblemType] =  planar
+[Coordinates] =  cartesian
+[Comment]     =  "Add comments here."
+[PointProps]   = 0
+[BdryProps]   = 1
+  <BeginBdry>
+    <BdryName> = "BC"
+    <BdryType> = 0
+    <Vs> = 0
+    <qs> = 0
+    <c0> = 0
+    <c1> = 0
+  <EndBdry>
+[BlockProps]  = 2
+  <BeginBlock>
+    <BlockName> = "Air"
+    <ex> = 1
+    <ey> = 1
+    <qv> = 0
+  <EndBlock>
+  <BeginBlock>
+    <BlockName> = "PVC"
+    <ex> = 3
+    <ey> = 3
+    <qv> = 0
+  <EndBlock>
+[ConductorProps]  = 2
+  <BeginConductor>
+    <ConductorName> = "Zero"
+    <Vc> = 0
+    <qc> = 0
+    <ConductorType> = 1
+  <EndConductor>
+  <BeginConductor>
+    <ConductorName> = "Wire"
+    <Vc> = 230
+    <qc> = 0
+    <ConductorType> = 1
+  <EndConductor>
+[NumPoints] = 6
+-1	0	0	0	0
+1	0	0	0	0
+-0.5	0	0	0	0
+0.5	0	0	0	0
+5	0	0	0	0
+-5	0	0	0	0
+[NumSegments] = 0
+[NumArcSegments] = 6
+0	1	180	1	0	0	0	0
+1	0	180	1	0	0	0	0
+2	3	180	1	0	0	0	2
+3	2	180	1	0	0	0	2
+5	4	180	1	1	0	0	1
+4	5	180	1	1	0	0	1
+[NumHoles] = 1
+-0.059999999999999998	0	0
+[NumBlockLabels] = 2
+-0.72999999999999998	0.059999999999999998	2	-1	0	0
+-3	2.3900000000000001	1	-1	0	0
