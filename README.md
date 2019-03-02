@@ -12,7 +12,10 @@ The simulations also include the calculated output result and revolve mostly aro
 - C shaped ferromagnetic core with permanent magnet (magnetic short circuit, air gap, permanent magnet in air)
 - Three phase cable
 
-Some example of results (B field for magnetic structures and E field for cables). I left out the scales out since these images are just for display and they are beautiful to look at.
+Some example of results (B field for magnetic structures and E field for cables). I left out the scales out since these images are just for display.
+
+## E field strength comparison in PVC insulated cables
+![image 6](https://user-images.githubusercontent.com/13961654/53684044-ad6ac880-3d08-11e9-801f-0f9fe21f52ea.png)
 
 ## Four salient poles ferromagnetic structure B field strength (rotor and stator). Saturation in poles with peak flux density is 1.6 T in the poles.
 
