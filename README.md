@@ -14,15 +14,15 @@ The simulations also include the calculated output result and revolve mostly aro
 
 Some example of results (B field for magnetic structures and E field for cables). I left out the scales out since these images are just for display and they are beautiful to look at.
 
-## Four salient poles ferromagnetic structure B strength (rotor and stator)
+## Four salient poles ferromagnetic structure B field strength (rotor and stator). Saturation in poles with peak flux density is 1.6 T in the poles.
 
 ![image 001](https://user-images.githubusercontent.com/13961654/53670353-b8771780-3c7a-11e9-8f00-ee31803c9ac6.png)
 
-## Three phase cable E strength
+## Three phase cable E field strength
 
 ![image 002](https://user-images.githubusercontent.com/13961654/53670354-b8771780-3c7a-11e9-85bc-2625ff272488.png)
 
-## Electromagnet with fed coil and 2 air gaps B strength
+## Electromagnet with fed coil and 2 air gaps B field strength
 
 ![image 003](https://user-images.githubusercontent.com/13961654/53670358-b90fae00-3c7a-11e9-9737-85cca9202485.png)
 
@@ -30,6 +30,6 @@ Some example of results (B field for magnetic structures and E field for cables)
 
 ![image 004](https://user-images.githubusercontent.com/13961654/53670360-b9a84480-3c7a-11e9-8fc9-b55175a9574a.png)
 
-## Permanent magnet in C shaped air gapped ferromagnetic core B strength
+## Permanent magnet in C shaped air gapped ferromagnetic core B field strength
 
 ![image 005](https://user-images.githubusercontent.com/13961654/53670352-b7de8100-3c7a-11e9-974d-34a9eb6d2d02.png)
