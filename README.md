@@ -14,10 +14,13 @@ The simulations also include the calculated output result and revolve mostly aro
 
 Some example of results (B field for magnetic structures and E field for cables). I left out the scales out since these images are just for display.
 
+## B and H field strength in 4 salient poles ferromagnetic structure (rotor and stator). Note how H is mostly concentrated in the air gap.
+![image 14](https://user-images.githubusercontent.com/13961654/53684288-aa250c00-3d0b-11e9-9a0a-5d3b6d569a9e.png)
+
 ## E field strength comparison in PVC insulated cables
 ![image 6](https://user-images.githubusercontent.com/13961654/53684044-ad6ac880-3d08-11e9-801f-0f9fe21f52ea.png)
 
-## Four salient poles ferromagnetic structure B field strength (rotor and stator). Saturation in poles with peak flux density is 1.6 T in the poles.
+## 4 salient poles ferromagnetic structure B field strength (rotor and stator). Saturation in poles with peak flux density is 1.6 T in the poles.
 
 ![image 001](https://user-images.githubusercontent.com/13961654/53670353-b8771780-3c7a-11e9-8f00-ee31803c9ac6.png)
 
